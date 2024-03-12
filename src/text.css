@@ -1,0 +1,10 @@
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.auto-input{
+    color: #090580;
+}
